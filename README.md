@@ -43,20 +43,8 @@
 
 ---
 
-<h3 align="center">📫 Connect with Me</h3>
+### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/matthew-owen-qunawan-7128b8327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://matthew-owen.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:55matthewowen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
+* 💼 **LinkedIn:** [Matthew Owen Gunawan](https://linkedin.com/in/matthew-owen-qunawan-7128b8327/)
+* 🌐 **Portfolio:** [matthew-owen.vercel.app](https://matthew-owen.vercel.app)
+* 📧 **Email:** 55matthewowen@gmail.com
