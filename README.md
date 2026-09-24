@@ -6,18 +6,6 @@
   <i>I am a Data Science undergraduate at BINUS University who thrives at the intersection of data, technology, and creative problem-solving. My passion lies in building end-to-end machine learning pipelines and deploying them into real-world applications that create measurable impact.</i>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/matthew-owen-qunawan-7128b8327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://matthew-owen.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:55matthewowen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -35,14 +23,40 @@
 
 ### 📂 Featured Projects
 
-* 🏛️ **AIM ASEAN DASHBOARD:** A B2G web-based dashboard platform designed for MSMEs (UMKM), currently implemented by the government. *([Live Dummy Demo](https://aim-asean-test-mode.web.app/) - Core Source Code is Confidential)*.
-* 🌍 **Scentia MBG:** A digital platform prototype addressing SDG 2 and 12, developed using official Badan Gizi Nasional data for the ASEAN Data Science Explorers competition.
-* 🤖 **Careero:** An AI mock interview web application featuring simulated interviews, user authentication, and profile progress tracking using Firebase.
-* 📊 **[Customer Satisfaction Prediction](https://github.com/MatthewOwenGunawan/customer-satisfaction-prediction):** A machine learning project predicting CSAT based on e-commerce customer support data using Random Forest, Gradient Boosting, SMOTE, and hyperparameter tuning.
-* 🎓 **[Student Placement Prediction](https://github.com/MatthewOwenGunawan/student-placement):** A predictive modeling project built to forecast student placement outcomes based on academic and demographic factors.
-* 💬 **[Sentiment Analysis 2024](https://github.com/MatthewOwenGunawan/sentiment-analysis-2024-presidential-candidates):** Analyzed public sentiment toward Indonesian 2024 presidential candidates using Twitter data and NLP.
+* 🏛️ **AIM ASEAN DASHBOARD** — A B2G web-based dashboard platform designed for MSMEs (UMKM), currently implemented by the government.
+  <br> 🔗 [Live Dummy Demo](https://aim-asean-test-mode.web.app/) &nbsp;&bull;&nbsp; 🔒 *Closed Source*
+
+* 🌍 **Scentia MBG** — A digital platform prototype addressing SDG 2 and 12, developed using official Badan Gizi Nasional data for the ASEAN Data Science Explorers competition.
+  <br> 🔗 [Live Demo](https://mbg-web---scentia.web.app/)
+
+* 🤖 **Careero** — An AI mock interview web application featuring simulated interviews, user authentication, and profile progress tracking using Firebase.
+  <br> 🔗 [Live Demo](https://careero-login.web.app/)
+
+* 🎓 **Student Placement Prediction** — A predictive modeling project built to forecast student placement outcomes based on academic and demographic factors.
+  <br> 🔗 [Live App](https://student-placement-ixpfbyec2dwn8uqjrgau8c.streamlit.app/) &nbsp;&bull;&nbsp; 💻 [Source Code](https://github.com/MatthewOwenGunawan/student-placement)
+
+* 📊 **Customer Satisfaction Prediction** — A machine learning project predicting CSAT based on e-commerce customer support data using Random Forest, Gradient Boosting, SMOTE, and hyperparameter tuning.
+  <br> 💻 [Source Code](https://github.com/MatthewOwenGunawan/customer-satisfaction-prediction)
+
+* 💬 **Sentiment Analysis 2024** — Analyzed public sentiment toward Indonesian 2024 presidential candidates using Twitter data and NLP.
+  <br> 💻 [Source Code](https://github.com/MatthewOwenGunawan/sentiment-analysis-2024-presidential-candidates)
 
 ---
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/matthew-owen-qunawan-7128b8327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://matthew-owen.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:55matthewowen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
