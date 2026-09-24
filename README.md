@@ -1,29 +1,48 @@
-# Hi, I'm Matthew Owen Gunawan 👋
+<h1 align="center">Hi there, I'm Matthew Owen Gunawan! 👋</h1>
 
-**Data Science Student | Machine Learning | Video Content Lead**
+<h3 align="center">Data Science Student | Machine Learning Enthusiast | Creative Media Lead</h3>
 
-I am a Data Science student at BINUS University specializing in end-to-end machine learning pipelines. I enjoy turning raw data into practical solutions through statistical analysis, predictive modeling, and deployable web applications.
+<p align="center">
+  <i>I am a Data Science undergraduate at BINUS University who thrives at the intersection of data, technology, and creative problem-solving. My passion lies in building end-to-end machine learning pipelines and deploying them into real-world applications that create measurable impact.</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/matthew-owen-qunawan-7128b8327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://matthew-owen.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:55matthewowen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 Data Science Student at **BINUS University**
-* 🎬 Video Content Lead at **Data Science Club BINUS**, managing creative teams and multimedia production
-* 🏆 Certified in **Machine Learning** and **Data Science** by Digital Talent Scholarship (Komdigi)
-* 💻 **Tech Stack:** Python, SQL, Scikit-learn, PyTorch, and R Studio
-* ☁️ **Deployment:** AWS SageMaker, Streamlit, and Firebase
-* 🛠️ Building projects involving exploratory data analysis, neural network modeling, and full-stack deployment.
+* 🎓 Studying **Data Science** at **BINUS University**
+* 🎬 **Video Content Lead** at Data Science Club BINUS, merging analytical thinking with creative media
+* 🏆 Certified in **Machine Learning** & **Data Science** by Digital Talent Scholarship (Komdigi)
+* 🤝 Highly interested in collaborative projects involving AI, web development, and interactive dashboards
+
+### 🛠️ Tech Stack & Tools
+
+* **Data & Machine Learning:** `Python` | `C` | `SQL` | `Scikit-learn` | `PyTorch` | `Pandas` | `NumPy`
+* **Web & Deployment:** `AWS` | `Streamlit` | `Firebase` | `HTML/CSS/JS` | `Flask`
+* **Design & UI/UX:** `Figma` | `Canva` | `CapCut`
 
 ### 📂 Featured Projects
 
-* **AIM ASEAN DASHBOARD:** A web-based dashboard platform for MSMEs (UMKM), currently implemented by the government. *([Live Demo](https://aim-asean-test-mode.web.app/) - Closed Source)*.
-* **Scentia MBG:** A B2G digital platform prototype addressing SDG 2 and 12, developed for the ASEAN Data Science Explorers competition.
-* **[Customer Satisfaction Prediction](https://github.com/MatthewOwenGunawan/customer-satisfaction-prediction):** A machine learning project predicting CSAT based on e-commerce customer support data using Random Forest, Gradient Boosting, SMOTE, and hyperparameter tuning.
-* **[Sentiment Analysis 2024 Presidential Candidates](https://github.com/MatthewOwenGunawan/sentiment-analysis-2024-presidential-candidates):** Analyzed public sentiment toward Indonesian 2024 presidential candidates using Twitter data and NLP.
-* **Careero:** An AI mock interview web application featuring simulated interviews, user authentication, and profile progress tracking.
+* 🏛️ **AIM ASEAN DASHBOARD:** A B2G web-based dashboard platform designed for MSMEs (UMKM), currently implemented by the government. *([Live Dummy Demo](https://aim-asean-test-mode.web.app/) - Core Source Code is Confidential)*.
+* 🌍 **Scentia MBG:** A digital platform prototype addressing SDG 2 and 12, developed using official Badan Gizi Nasional data for the ASEAN Data Science Explorers competition.
+* 🤖 **Careero:** An AI mock interview web application featuring simulated interviews, user authentication, and profile progress tracking using Firebase.
+* 📊 **[Customer Satisfaction Prediction](https://github.com/MatthewOwenGunawan/customer-satisfaction-prediction):** A machine learning project predicting CSAT based on e-commerce customer support data using Random Forest, Gradient Boosting, SMOTE, and hyperparameter tuning.
+* 🎓 **[Student Placement Prediction](https://github.com/MatthewOwenGunawan/student-placement):** A predictive modeling project built to forecast student placement outcomes based on academic and demographic factors.
+* 💬 **[Sentiment Analysis 2024](https://github.com/MatthewOwenGunawan/sentiment-analysis-2024-presidential-candidates):** Analyzed public sentiment toward Indonesian 2024 presidential candidates using Twitter data and NLP.
 
-### 📫 Connect with Me
-* 📧 **Email:** 55matthewowen@gmail.com
-* 💼 **LinkedIn:** [Matthew Owen Gunawan](https://linkedin.com/in/matthew-owen-qunawan-7128b8327/)
-* 🌐 **Portfolio:** [matthew-owen.vercel.app](https://matthew-owen.vercel.app)
+---
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
